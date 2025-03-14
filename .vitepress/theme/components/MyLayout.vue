@@ -6,7 +6,7 @@
     </template>
     <template #doc-after>
       <div>
-        <button @click="back">cd ··</button>
+        <button @click="back">回到主页..</button>
       </div>
       <Comments />
     </template>
